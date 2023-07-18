@@ -63,10 +63,10 @@ switch (score1) {
 }
 
 // if-else Conditional statement logical(||, &&, !) va comparison operator(==,!=, <, >, <=, >=) ishlata oladi.
-// Lekin swith statement bu operatorlarni ishlata olmaydi. Variable value'si
-// aniq qiymatni ifoda etishi kerak. swith statement bilan ishlatish uchun "Grouping cases" qilishimiz mumkun,
+// Lekin switch statement bu operatorlarni ishlata olmaydi. Variable value'si
+// aniq qiymatni ifoda etishi kerak. switch statement bilan ishlatish uchun "Grouping cases" qilishimiz mumkun,
 // bu esa bizni codemizni uzun qilib tashledi va chiroyli chiqmidi.
-//Albatta swith statement bilan ham swith(true) deb caselarni katta kichik belgilari bilan
+//Albatta switch statement bilan ham swith(true) deb caselarni katta kichik belgilari bilan
 //ishlatsak boladi lekin bunday mas'alalarda if-else qulayroq. Agar kamchilik bo'lsa inshaAllah o'rganamiz.
 
 // <------3rd ----->
